@@ -1,0 +1,20 @@
+{
+    "name": "flex-it-out",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "@mui/material": "^5.9.3",
+      "@tensorflow-models/pose-detection": "^0.1.2",
+      "@tensorflow/tfjs": "^4.0.0",
+      "axios": "^0.27.2",
+      "next": "latest",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    }
+  }
+  
